@@ -1,0 +1,17 @@
+My asscoiate id:845102
+Other team members: 844777, 844778, 844828, 844779
+Team lead: 844777
+My Role in team:
+1. To develop Placeorder page.(javascript)
+2. To develop ViewOrder page.(local storage)
+My development files:
+ 1.Placeorder.html
+ 2.Vieworder.html
+I was strong in:
+1. HTML
+2. Css
+3. Documentation
+4. Bootstrap
+
+Feedback:
+1. Providing the information about basis of evaluation would be little helpful.
